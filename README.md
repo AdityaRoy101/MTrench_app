@@ -1,3 +1,6 @@
+![WhatsApp Image 2024-05-12 at 19 22 48_b4e63614](https://github.com/AdityaRoy101/MTrench_app/assets/86155138/56e347ad-8cfa-4ae9-8805-a8e1c1aed881)
+The Working of the app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
